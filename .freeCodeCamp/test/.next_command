@@ -37,3 +37,4 @@ git checkout -b main
 git status
 touch file_name
 touch README.md
+git status
